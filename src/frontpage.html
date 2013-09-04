@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+  <section id="content">
+    {% block content_title %}
+    {% endblock %}
+
+    <div class="row">
+      <div class="eleven columns">
+
+        This only appears on the front page.
+
+        <ol id="post-list">
+
+        {% for c in categories %}
+        {{ categories[c] }}
+        {% endfor %}
+          
+        </ol><!-- /#posts-list -->
+
+      </div><!-- /.eleven.columns -->
+          
+      {% include 'sidebar.html' %}
+    </div><!-- /.row -->
+
+  </section><!-- /#content -->
+{% endblock content %}
