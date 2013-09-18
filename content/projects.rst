@@ -6,16 +6,18 @@ Projects
 Project Associations
 ====================
 Projects can enter a relationship with a NumFOCUS in one of two ways.  Neither
-is "better"; they simply offer different levels of structure.
+is "better"; they simply offer different levels of structure.  In all cases,
+NumFOCUS does not own or direct any of its affiliated projects.  The projects
+belong to their communities and are directed wholely by their communities.
 
-Supported Projects
--------------------
+Supported Project
+-----------------
 Affiliated projects have a simple granter-grantee relationship.  This enables
 NumFOCUS to provide funds (via grants) to a project.  Additionally, it allows
-NumFOCUS to receive tax-deductible donations on behalf of the project.  For
-this NumFOCUS needs 2-3 project representatives willing to make sure that grant
-funds are used appropriately.  For more detail, please see our Granter-Grantee
-Fiscal Sponsorship Agreement.
+NumFOCUS to receive tax-deductible donations on behalf of the project.
+Supported projects must provide 2-3 project representatives willing to make
+sure that grant funds are used appropriately.  For more detail, please see our
+Granter-Grantee Fiscal Sponsorship Agreement.
 
 NumFOCUS Projects
 -----------------
