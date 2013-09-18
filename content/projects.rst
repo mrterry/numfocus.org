@@ -3,8 +3,52 @@ Projects
 :date: 07-05-2013
 :hide_info: True
 
-Core Projects
-=============
+Project Associations
+====================
+Projects can enter a relationship with a NumFOCUS in one of two ways.  Neither
+is "better"; they simply offer different levels of structure.
+
+Supported Projects
+-------------------
+Affiliated projects have a simple granter-grantee relationship.  This enables
+NumFOCUS to provide funds (via grants) to a project.  Additionally, it allows
+NumFOCUS to receive tax-deductible donations on behalf of the project.  For
+this NumFOCUS needs 2-3 project representatives willing to make sure that grant
+funds are used appropriately.  For more detail, please see our Granter-Grantee
+Fiscal Sponsorship Agreement.
+
+NumFOCUS Projects
+-----------------
+Projects wishing to have official legal standing can enter into a comprehensive
+relationship with NumFOCUS.  Legal standing enables the project (rather than
+individual members) to sign contracts.  If the project were to organize a
+conference, the project would sign the hotel room guarantee and be responsible
+rather than forcing that responsibility on one brave volunteer.  In this type
+of relationship, the project is legally subsumed into NumFOCUS.  NumFOCUS now
+has legal standing to defend a project's trademarks, IP, and otherwise act on
+behalf of the project.  Comprehensive relationship require the project to
+establish a board of directors to administer project.  For more detail, please
+see our Comprehensive Fiscal Sponsorship Agreement.
+
+Affiliated Projects
+-------------------
+NumFOCUS does not have an official relationship with these projects, but we
+think they are pretty cool.
+
+
+NumFOCUS Projects
+=================
+
+`IPython`_
+--------------
+.. image:: static/images/ipython.png
+    :height: 70px
+
+High quality open source python shell that includes tools for high level and
+interactive parallel computing.
+
+Supported Projects
+===================
 
 `NumPy`_
 ------------
@@ -43,13 +87,6 @@ as routines for numerical integration and optimization.
 used in various hardcopy and interactive environments. matplolib is
 compatiable with python scripts and the python and ipython shells.
 
-`IPython`_
---------------
-.. image:: static/images/ipython.png
-    :height: 70px
-
-High quality open source python shell that includes tools for high level and
-interactive parallel computing.
 
 `SymPy`_
 ------------
@@ -61,10 +98,6 @@ full-featured computer algebra system (CAS) while keeping the code as simple as
 possible in order to be comprehensible and easily extensible. SymPy is written
 entirely in Python and does not require any external libraries.
 
-
-
-Other Projects
-==============
 
 `Cython`_
 -------------
@@ -149,7 +182,7 @@ Theano is a Python library that allows you to define, optimize, and evaluate
 mathematical expressions involving multi-dimensional arrays efficiently.
 
 
-Associated Projects
+Affiliated Projects
 ===================
 NumFOCUS is currently looking for representatives to enable us to promote the
 following projects.  For information contact us at: `info@NumFOCUS.org`_.
